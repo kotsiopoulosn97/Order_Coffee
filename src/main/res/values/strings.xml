@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Order Coffe</string>
+    <string name="orderCoffeMessage">Παραγγελία Καφέ</string>
+    <string name="cold">Κρύος Καφές</string>
+    <string name="hot">Ζεστός Καφές</string>
+    <string name="sugar">Ζάχαρη</string>
+    <string name="order">Παραγγελία</string>
+    <string name="type">Τύπος καφέ</string>
+    <string name="with">Με</string>
+    <string name="without">Χωρίς</string>
+    <string name="milk">Γάλα</string>
+    <string name="address">Διεύθυνση αποστολής</string>
+</resources>
